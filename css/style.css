@@ -1,0 +1,11 @@
+body { background: #f0e6dd; }
+body .modal .modal-content { border-radius: 0; }
+body .modal .modal-header { background: #ba5647; color: #fff; border-color: #de8b7f; }
+body .modal .modal-header .close { color: #fff; opacity: 1; }
+body .modal .modal-body { padding: 50px 15px; }
+body .modal .modal-body .col-md-2 { width: 12%; }
+body .modal .modal-body .progress { margin: 10px 0 0 0; }
+body .modal .modal-body .object-media { border: 2px dashed #ddd; }
+body .modal .modal-body .progress .progress-bar { background: #de8b7f; }
+body .modal .modal-body .action { line-height: 40px; }
+body .modal .modal-body .action a { color: #ddd; }
